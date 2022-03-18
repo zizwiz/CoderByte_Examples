@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/Coderbyte/obj/Debug
+/Coderbyte/obj/Release
+/Coderbyte/bin/Debug
